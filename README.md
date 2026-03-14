@@ -1,5 +1,5 @@
 
-```markdown
+ 
 # 💳 Smart ATM Simulator
 
 [![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)]() 
@@ -102,7 +102,7 @@ Total notes: 10
 1. **Clone this repository:**
    ```bash
    git clone https://github.com/ahmed-devx/project-38-ATM.git
-````
+ 
 
 2. **Open the folder** in VS Code or any editor.
 3. **Run** `index.html` in your browser.
@@ -110,11 +110,6 @@ Total notes: 10
 
 ---
 
-## 📸 Preview
-
-![ATM Screenshot](https://ahmed-devx.github.io/project-38-ATM/preview.png)
-
----
 
 ## 🚀 Future Enhancements
 
@@ -130,16 +125,11 @@ Total notes: 10
 **Muhammad Ahmed**
 Full Stack Developer & JavaScript Enthusiast
 
-💼 [LinkedIn](https://www.linkedin.com/in/muhammad-ahmed-dev07/)
-🐙 [GitHub](https://github.com/ahmed-devx)
+💼 [LinkedIn](https://www.linkedin.com/in/ahmeddevx07/)
+🐙 [GitHub](https://github.com/ahmeddevx07)
 
 ---
 
 ⭐ **If you like this project, don’t forget to star the repo!** ⭐
 
-```
-
----
-
-Would you like me to make a **shorter version (2–3 sections)** of this README too for your GitHub repo front page — while keeping this detailed one inside `/docs/README.md` (like a pro project structure)?
-```
+ 
